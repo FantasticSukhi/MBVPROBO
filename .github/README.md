@@ -48,7 +48,7 @@
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3>
 
-- Get your [Necessary Variables](https://github.com/Noob-Mukesh/MukeshRobot/blob/main/MukeshRobot/config.py)
+- Get your [Necessary Variables](https://github.com/FantasticSukhi/MBVPROBO/blob/main/MukeshRobot/config.py)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
@@ -56,7 +56,7 @@
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/Noob-Mukesh/MukeshRobot && cd MukeshRobot`
+`git clone https://github.com/FantasticSukhi/MBVPROBO && cd MBVPROBO`
 - Install/Upgrade setuptools by :
 `pip3 install --upgrade pip setuptools`
 - Install requirements by :
