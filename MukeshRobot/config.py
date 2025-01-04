@@ -5,7 +5,7 @@ class Config(object):
     TOKEN = "7803412058:AAFLOVUwVwCxLSF0X0rtkKQQbv6zSCsz5wE"  
     OWNER_ID=6713994904
     
-    SUPPORT_CHAT = "@MBV_CHATS" 
+    SUPPORT_CHAT = "MBV_CHATS" 
     START_IMG = "https://i.ibb.co/mTqzjHK/file-6723.jpg"
     EVENT_LOGS = (-1002138809373)
     MONGO_DB_URI= "mongodb+srv://SUKHI:starboy333@mamba.jb9uy.mongodb.net/?retryWrites=true&w=majority&appName=Mamba"
