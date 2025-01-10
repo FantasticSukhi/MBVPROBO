@@ -4,13 +4,11 @@ class Config(object):
     API_HASH = "e5b2ac2f9c37bda345fa9fb5ade66961"
     TOKEN = "7803412058:AAFlrT_BOEXAQTY7DrEwap3U-LnFHfuQFys"  
     OWNER_ID=6713994904
-    
     SUPPORT_CHAT = "MBV_CHATS" 
     START_IMG = "https://i.ibb.co/mTqzjHK/file-6723.jpg"
     EVENT_LOGS = (-1002138809373)
-    MONGO_DB_URI= "mongodb+srv://SUKHI:starboy333@mamba.jb9uy.mongodb.net/?retryWrites=true&w=majority&appName=Mamba"
-   
-    DATABASE_URL = "postgres://mcclbjwx:CqMrbec47cqL5KbaZOUDlVQWOscjNcKR@peanut.db.elephantsql.com/mcclbjwx"  # A sql database url from elephantsql.com
+    MONGO_DB_URI= "mongodb+srv://Sukhi:starboy333@cluster0.jb9uy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    DATABASE_URL = "postgres://mcclbjwx:CqMrbec47cqL5KbaZOUDlVQWOscjNcKR@peanut.db.elephantsql.com/mcclbjwx"
     CASH_API_KEY = (
         "cpzwadqyiwbplccvissfnapimzloqwvl"
     )
