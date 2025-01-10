@@ -2,7 +2,7 @@ class Config(object):
     LOGGER = True
     API_ID =20353207 
     API_HASH = "e5b2ac2f9c37bda345fa9fb5ade66961"
-    TOKEN = "7803412058:AAFLOVUwVwCxLSF0X0rtkKQQbv6zSCsz5wE"  
+    TOKEN = "7803412058:AAFlrT_BOEXAQTY7DrEwap3U-LnFHfuQFys"  
     OWNER_ID=6713994904
     
     SUPPORT_CHAT = "MBV_CHATS" 
