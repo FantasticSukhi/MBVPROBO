@@ -6,8 +6,8 @@ class Config(object):
     OWNER_ID=6713994904
     SUPPORT_CHAT = "MBV_CHATS" 
     START_IMG = "https://i.ibb.co/mTqzjHK/file-6723.jpg"
-    EVENT_LOGS = (-1002138809373)
-    MONGO_DB_URI= "mongodb+srv://Sukhi:starboy333@cluster0.jb9uy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    EVENT_LOGS = (-1002379178269)
+    MONGO_DB_URI= "mongodb+srv://danishzain1637:papaspartan@cluster0.xdje3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     DATABASE_URL = "postgres://mcclbjwx:CqMrbec47cqL5KbaZOUDlVQWOscjNcKR@peanut.db.elephantsql.com/mcclbjwx"
     CASH_API_KEY = (
         "cpzwadqyiwbplccvissfnapimzloqwvl"
